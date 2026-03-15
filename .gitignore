@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+tmp/
+output/
+ppt_lyric_patch/
+__pycache__/

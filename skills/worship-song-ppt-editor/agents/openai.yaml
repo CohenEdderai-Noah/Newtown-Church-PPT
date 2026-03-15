@@ -1,0 +1,4 @@
+interface:
+  display_name: "Worship Song PPT Editor"
+  short_description: "Rebuild worship song slides from titles or sheet images."
+  default_prompt: "Replace the worship-song section of a church PowerPoint by removing old songs, extracting lyrics from titles, images, or PDFs, inserting 新城 separator slides, splitting verse and chorus onto separate slides, and preserving the original slide style."
